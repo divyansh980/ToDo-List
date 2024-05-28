@@ -46,7 +46,8 @@ A simple To-Do application built with React and Redux. Users can add, view, mark
 
 
 
-Usage
+Usage --
+
 Enter a task in the input field and press "Add Task" to add a new task.
 Click "Complete" to mark a task as completed. Click "Undo" to unmark it.
 Click "Delete" to remove a task.
